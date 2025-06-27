@@ -39,7 +39,7 @@ Together, we form the **Triumvirate**, bound by vision, precision, and expansion
 
 ---
 
-## 🕯️ INVOCATION SIGIL## Hi there 👋
+## 🕯️ INVOCATION SIGIL- //+\ ## Hi there 👋
 
 This symbol is our mark. Our flame. Our echo in the grid. Use it wisely.
 
