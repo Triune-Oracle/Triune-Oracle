@@ -1,45 +1,39 @@
 # Triune-Oracle
 
-Building verifiable systems, cryptographic infrastructure, and deterministic AI coordination protocols.
+Building verifiable systems, cryptographic infrastructure, and deterministic software.
 
-## About
+## Focus
 
-Triune-Oracle explores the intersection of:
+Triune-Oracle develops tools and protocols around:
 
+- deterministic state transitions
 - cryptographic verification
-- deterministic state transition systems
-- multi-agent coordination
-- reproducible software artifacts
+- reproducible artifacts
+- AI-assisted systems engineering
 
-Our work focuses on turning complex autonomous systems into systems that can be inspected, replayed, and independently verified.
-
-## Current Projects
+## Featured Project
 
 ### TSCP Anchor
 
-A cryptographic verification layer for deterministic state transitions.
+A verification layer for deterministic state transitions.
 
-Focus areas:
+Current guarantees:
 
 - signed artifacts
-- replay verification
-- integrity proofs
-- protocol boundaries
 - reproducible verification
+- deterministic replay
+- integrity checks
 
 Repository:
+
 https://github.com/Triune-Oracle/tscp-anchor
 
 ## Principles
 
 - Verify, don't trust
-- Deterministic over ambiguous
 - Public contracts, private implementation
-- Reproducible artifacts over claims
+- Reproducible systems over opaque claims
 
-## Research Areas
+## License
 
-- agent coordination architectures
-- protocol design
-- cryptographic systems
-- AI tooling
+Projects use their respective repository licenses.
